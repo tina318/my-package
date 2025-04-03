@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      Hello, World!bfhdb g
+      Hello, World!
     </>
   )
 }
